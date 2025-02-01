@@ -17,15 +17,16 @@
 <br/>
 <br/>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ragjvictor&show_icons=true&theme=merko&include_all_commits=true&count_private=true)
-![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ragjvictor&layout=donut&theme=merko)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ragjvictor&show_icons=true&theme=merko&include_all_commits=true&count_private=false)
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ragjvictor&layout=donut&theme=merko&langs_count=8)
 
 ## 🚣🏻 Lagoa do Conhecimento
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
